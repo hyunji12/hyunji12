@@ -1,4 +1,4 @@
-## Hi! I'm Hyunjee Lee 👋
+## I'm Hyunjee Lee 👋
 
 - 🌱  I’m a master student in AI at Yonsei University.
 - 👀  I'm currently interested in 3D/4D scene understanding and reconstruction.
