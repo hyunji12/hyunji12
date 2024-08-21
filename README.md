@@ -3,7 +3,7 @@
 - 🌱  I’m a master student in AI at Yonsei University.
 - 👀  I'm currently interested in 3D/4D scene understanding and reconstruction.
 - 📫  You can reach me at [hyunji12@yonsei.ac.kr](hyunji12@yonsei.ac.kr)
-- 🏡  My homepage: [here](https://hyunji12.github.io/)
+<!-- - 🏡  My homepage: [here](https://hyunji12.github.io/) --!>
 <br>
 
 📚 <b>Publication</b>
