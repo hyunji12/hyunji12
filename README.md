@@ -7,7 +7,7 @@
 <br>
 
 📚 <b>Publication</b>
-- 1st Author, [Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space](https://arxiv.org/abs/2408.07416), arXiv preprint
+- 1st Author, [Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space](https://arxiv.org/abs/2408.07416), AAAI 2025
 
 <!--
 **hyunji12/hyunji12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
