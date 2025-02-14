@@ -1,7 +1,7 @@
 ## I'm Hyunjee Lee 👋
 
 - 🌱  I’m a master student in AI at Yonsei University.
-- 👀  I'm currently interested in 3D/4D scene understanding and reconstruction.
+- 👀  I'm currently interested in 3D scene understanding and LLM / VLM.
 - 📫  You can reach me at [hyunji12@yonsei.ac.kr](hyunji12@yonsei.ac.kr)
 - 🏡  My homepage: [here](https://hyunji12.github.io/)
 <br>
